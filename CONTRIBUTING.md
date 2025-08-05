@@ -6,3 +6,4 @@ Notes and usage details for client.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
